@@ -1,0 +1,565 @@
+2020-09-17 22:23:29.786 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 22:23:29.822 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 16688 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 22:23:29.823 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 22:23:29.875 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 22:23:29.876 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 22:23:31.246 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 22:23:31.256 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:23:31.257 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 22:23:31.258 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 22:23:31.360 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 22:23:31.360 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1484 ms
+2020-09-17 22:23:31.392 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-09-17 22:23:31.415 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-17 22:25:32.763 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 22:25:32.787 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 9060 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 22:25:32.787 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 22:25:32.834 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 22:25:32.834 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 22:25:33.963 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 22:25:33.970 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:25:33.971 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 22:25:33.972 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 22:25:34.083 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 22:25:34.083 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1248 ms
+2020-09-17 22:25:34.114 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-09-17 22:25:34.143 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-17 22:31:00.144 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 22:31:00.172 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 4484 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 22:31:00.173 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 22:31:00.220 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 22:31:00.220 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 22:31:01.289 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 22:31:01.297 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:31:01.298 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 22:31:01.298 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 22:31:01.393 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 22:31:01.393 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1173 ms
+2020-09-17 22:31:01.420 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-09-17 22:31:01.442 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-17 22:32:59.989 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 22:33:00.021 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 11968 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 22:33:00.022 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 22:33:00.082 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 22:33:00.083 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 22:33:01.211 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 22:33:01.219 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:33:01.220 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 22:33:01.220 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 22:33:01.328 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 22:33:01.328 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1245 ms
+2020-09-17 22:33:01.362 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-09-17 22:33:01.386 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-17 22:42:45.398 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 22:42:45.426 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 13676 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 22:42:45.426 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 22:42:45.479 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 22:42:45.479 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 22:42:46.673 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 22:42:46.685 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:42:46.686 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 22:42:46.686 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 22:42:46.804 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 22:42:46.804 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1325 ms
+2020-09-17 22:42:46.840 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-09-17 22:42:46.871 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-17 22:45:31.946 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 22:45:31.964 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 13848 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 22:45:31.964 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 22:45:32.014 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 22:45:32.014 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 22:45:33.048 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 22:45:33.057 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:45:33.057 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 22:45:33.058 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 22:45:33.164 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 22:45:33.164 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1150 ms
+2020-09-17 22:45:33.695 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 22:45:33.877 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 22:45:33.892 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:45:33.914 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 22:45:33.922 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 2.412 seconds (JVM running for 3.387)
+2020-09-17 22:47:15.592 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 22:47:15.592 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-09-17 22:47:15.596 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-09-17 22:48:30.498 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 22:48:30.514 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 9168 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 22:48:30.514 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 22:48:30.560 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 22:48:30.560 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 22:48:31.688 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 22:48:31.698 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:48:31.699 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 22:48:31.700 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 22:48:31.816 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 22:48:31.816 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1255 ms
+2020-09-17 22:48:32.309 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 22:48:32.481 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 22:48:32.495 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:48:32.514 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 22:48:32.524 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 2.5 seconds (JVM running for 3.493)
+2020-09-17 22:48:43.364 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 22:48:43.365 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-09-17 22:48:43.369 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-09-17 22:49:11.673 [http-nio-8080-exec-3] INFO  org.chatroom.crdemo.controller.UserController - 注册正常
+2020-09-17 22:49:32.854 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 22:49:32.876 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 7820 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 22:49:32.876 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 22:49:32.921 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 22:49:32.922 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 22:49:33.968 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 22:49:33.976 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:49:33.977 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 22:49:33.977 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 22:49:34.078 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 22:49:34.079 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1157 ms
+2020-09-17 22:49:34.577 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 22:49:34.746 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 22:49:34.760 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:49:34.778 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 22:49:34.788 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 2.344 seconds (JVM running for 3.33)
+2020-09-17 22:49:41.011 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 22:49:41.012 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-09-17 22:49:41.016 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-09-17 22:49:41.071 [http-nio-8080-exec-1] INFO  org.chatroom.crdemo.controller.UserController - 注册正常
+2020-09-17 22:50:01.389 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 22:50:01.413 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 15156 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 22:50:01.413 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 22:50:01.458 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 22:50:01.459 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 22:50:02.500 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 22:50:02.508 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:50:02.509 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 22:50:02.509 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 22:50:02.610 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 22:50:02.611 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1152 ms
+2020-09-17 22:50:03.122 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 22:50:03.287 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 22:50:03.302 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:50:03.318 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 22:50:03.328 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 2.353 seconds (JVM running for 3.323)
+2020-09-17 22:50:07.344 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 22:50:07.345 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-09-17 22:50:07.350 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-09-17 22:52:25.730 [Thread-10] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 22:52:25.886 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 15156 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 22:52:25.887 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 22:59:20.941 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 15156 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 22:59:20.942 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 22:59:21.293 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 22:59:21.294 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:59:21.294 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 22:59:21.294 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 22:59:21.341 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 22:59:21.342 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 395 ms
+2020-09-17 22:59:21.393 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 22:59:21.502 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 22:59:21.510 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 22:59:21.513 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 22:59:21.516 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 0.646 seconds (JVM running for 561.511)
+2020-09-17 22:59:21.517 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-09-17 23:09:56.436 [Thread-17] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:09:56.624 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 15156 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:09:56.625 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:09:56.954 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:09:56.954 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:09:56.955 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:09:56.955 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:09:56.979 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:09:56.979 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 351 ms
+2020-09-17 23:09:56.989 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-09-17 23:09:56.994 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-17 23:10:28.530 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 15156 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:10:28.530 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:10:28.851 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:10:28.852 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:10:28.852 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:10:28.853 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:10:28.885 [restartedMain] INFO  o.a.c.c.ContainerBase.[Tomcat-1].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:10:28.886 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 353 ms
+2020-09-17 23:10:28.896 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-09-17 23:10:28.902 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-17 23:12:02.718 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 15156 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:12:02.719 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:12:02.997 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:12:02.998 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:12:02.998 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:12:02.999 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:12:03.035 [restartedMain] INFO  o.a.c.c.ContainerBase.[Tomcat-2].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:12:03.035 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 313 ms
+2020-09-17 23:12:03.074 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:12:03.164 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:12:03.172 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:12:03.176 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:12:03.178 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 0.528 seconds (JVM running for 1323.173)
+2020-09-17 23:12:03.179 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-09-17 23:13:01.223 [Thread-24] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:13:01.531 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 15156 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:13:01.532 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:13:01.888 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:13:01.889 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:13:01.889 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:13:01.889 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:13:01.915 [restartedMain] INFO  o.a.c.c.ContainerBase.[Tomcat-2].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:13:01.916 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 380 ms
+2020-09-17 23:13:01.998 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:13:02.066 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:13:02.074 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:13:02.077 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:13:02.080 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 0.652 seconds (JVM running for 1382.074)
+2020-09-17 23:13:02.081 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-09-17 23:13:34.450 [Thread-35] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:13:34.674 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 15156 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:13:34.675 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:13:35.016 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:13:35.016 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:13:35.016 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:13:35.017 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:13:35.042 [restartedMain] INFO  o.a.c.c.ContainerBase.[Tomcat-2].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:13:35.042 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 361 ms
+2020-09-17 23:13:35.120 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:13:35.190 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:13:35.197 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:13:35.200 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:13:35.203 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 0.654 seconds (JVM running for 1415.197)
+2020-09-17 23:13:35.204 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-09-17 23:14:50.255 [Thread-40] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:14:50.407 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 15156 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:14:50.407 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:14:50.675 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:14:50.676 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:14:50.676 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:14:50.676 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:14:50.702 [restartedMain] INFO  o.a.c.c.ContainerBase.[Tomcat-2].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:14:50.702 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 291 ms
+2020-09-17 23:14:50.768 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:14:50.820 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:14:50.827 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:14:50.830 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:14:50.832 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 0.483 seconds (JVM running for 1490.827)
+2020-09-17 23:14:50.833 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-09-17 23:22:34.159 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 23:22:34.183 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 11952 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:22:34.184 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:22:34.230 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 23:22:34.230 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 23:22:35.334 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:22:35.342 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:22:35.343 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:22:35.344 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:22:35.451 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:22:35.451 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1221 ms
+2020-09-17 23:22:35.991 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:22:36.185 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:22:36.205 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:22:36.227 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:22:36.237 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 2.491 seconds (JVM running for 3.496)
+2020-09-17 23:23:04.541 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 23:23:04.542 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-09-17 23:23:04.546 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-09-17 23:23:04.682 [http-nio-8080-exec-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-09-17 23:23:04.858 [http-nio-8080-exec-1] INFO  org.chatroom.crdemo.controller.UserController - 812594603@163.com邮箱已被注册
+2020-09-17 23:24:22.726 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 23:24:22.746 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 20468 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:24:22.746 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:24:22.793 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 23:24:22.794 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 23:24:23.839 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:24:23.848 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:24:23.849 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:24:23.849 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:24:23.955 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:24:23.956 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1162 ms
+2020-09-17 23:24:24.459 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:24:24.656 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:24:24.674 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:24:24.695 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:24:24.706 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 2.387 seconds (JVM running for 3.354)
+2020-09-17 23:24:39.543 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 23:24:39.543 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-09-17 23:24:39.547 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-09-17 23:24:39.667 [http-nio-8080-exec-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-09-17 23:27:00.018 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 23:27:00.040 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 10332 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:27:00.041 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:27:00.085 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 23:27:00.086 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 23:27:01.152 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:27:01.162 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:27:01.163 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:27:01.163 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:27:01.267 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:27:01.267 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1181 ms
+2020-09-17 23:27:01.805 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:27:01.971 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:27:01.987 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:27:02.005 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:27:02.017 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 2.417 seconds (JVM running for 3.386)
+2020-09-17 23:27:31.668 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 23:27:31.668 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-09-17 23:27:31.674 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-09-17 23:27:31.800 [http-nio-8080-exec-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-09-17 23:32:11.068 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 23:32:11.088 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 19360 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:32:11.088 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:32:11.131 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 23:32:11.131 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 23:32:12.252 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:32:12.262 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:32:12.262 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:32:12.263 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:32:12.385 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:32:12.386 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1255 ms
+2020-09-17 23:32:12.956 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:32:13.137 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:32:13.152 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:32:13.171 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:32:13.181 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 2.569 seconds (JVM running for 3.589)
+2020-09-17 23:32:22.129 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 23:32:22.130 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-09-17 23:32:22.135 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-09-17 23:32:22.267 [http-nio-8080-exec-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-09-17 23:36:39.284 [Thread-11] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:36:39.288 [Thread-11] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2020-09-17 23:36:39.471 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 19360 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:36:39.471 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:36:39.791 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:36:39.792 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:36:39.792 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:36:39.792 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:36:39.828 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:36:39.828 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 353 ms
+2020-09-17 23:36:39.914 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:36:39.973 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:36:39.981 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:36:39.984 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:36:39.987 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 0.597 seconds (JVM running for 270.395)
+2020-09-17 23:36:39.988 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-09-17 23:37:01.809 [Thread-18] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:37:02.006 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 19360 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:37:02.006 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:37:02.332 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:37:02.333 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:37:02.333 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:37:02.333 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:37:02.359 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:37:02.359 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 350 ms
+2020-09-17 23:37:02.445 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:37:02.510 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:37:02.518 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:37:02.521 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:37:02.523 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 0.593 seconds (JVM running for 292.932)
+2020-09-17 23:37:02.524 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-09-17 23:37:08.441 [Thread-23] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:37:08.617 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 19360 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:37:08.618 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:37:08.881 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:37:08.882 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:37:08.882 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:37:08.882 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:37:08.908 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:37:08.909 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 289 ms
+2020-09-17 23:37:08.987 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:37:09.040 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:37:09.047 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:37:09.050 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:37:09.053 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 0.49 seconds (JVM running for 299.461)
+2020-09-17 23:37:09.054 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-09-17 23:37:21.185 [Thread-28] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:37:21.363 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 19360 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:37:21.363 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:37:21.630 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:37:21.631 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:37:21.631 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:37:21.631 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:37:21.660 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:37:21.661 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 295 ms
+2020-09-17 23:37:21.771 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:37:21.831 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:37:21.838 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:37:21.842 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:37:21.845 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 0.547 seconds (JVM running for 312.253)
+2020-09-17 23:37:21.846 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-09-17 23:39:18.239 [Thread-33] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:39:18.347 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 19360 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:39:18.347 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:39:18.687 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:39:18.688 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:39:18.688 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:39:18.688 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:39:18.718 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:39:18.718 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 368 ms
+2020-09-17 23:39:18.814 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:39:18.877 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:39:18.885 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:39:18.888 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:39:18.891 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 0.603 seconds (JVM running for 429.3)
+2020-09-17 23:39:18.893 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-09-17 23:39:59.936 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 23:39:59.963 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 17608 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:39:59.964 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:40:00.015 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 23:40:00.016 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 23:40:01.083 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:40:01.092 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:40:01.092 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:40:01.093 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:40:01.203 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:40:01.203 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1187 ms
+2020-09-17 23:40:01.758 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:40:01.942 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:40:01.957 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:40:01.978 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:40:01.987 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 2.452 seconds (JVM running for 3.474)
+2020-09-17 23:40:09.987 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 23:40:09.987 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-09-17 23:40:09.992 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-09-17 23:40:10.124 [http-nio-8080-exec-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-09-17 23:44:50.267 [Thread-11] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:44:50.273 [Thread-11] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2020-09-17 23:44:50.455 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 17608 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:44:50.455 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:44:52.815 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 23:44:52.841 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 9228 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:44:52.841 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:44:52.883 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 23:44:52.884 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 23:44:53.945 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:44:53.954 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:44:53.955 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:44:53.956 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:44:54.075 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:44:54.075 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1191 ms
+2020-09-17 23:44:54.710 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:44:54.943 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:44:54.959 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:44:54.978 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:44:54.988 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 2.616 seconds (JVM running for 3.732)
+2020-09-17 23:45:41.924 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 23:45:41.924 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-09-17 23:45:41.929 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-09-17 23:45:42.080 [http-nio-8080-exec-2] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-09-17 23:48:01.034 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 23:48:01.062 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 7016 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:48:01.062 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:48:01.104 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 23:48:01.104 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 23:48:02.171 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:48:02.179 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:48:02.180 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:48:02.181 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:48:02.289 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:48:02.290 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1185 ms
+2020-09-17 23:48:02.806 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:48:03.139 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:48:03.174 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:48:03.217 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:48:03.237 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 2.66 seconds (JVM running for 3.625)
+2020-09-17 23:48:10.439 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 23:48:10.440 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-09-17 23:48:10.444 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-09-17 23:48:10.582 [http-nio-8080-exec-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-09-17 23:50:03.986 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+2020-09-17 23:50:04.005 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 7428 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:50:04.006 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:50:04.053 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-17 23:50:04.053 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-17 23:50:05.104 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:50:05.114 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:50:05.115 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:50:05.115 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:50:05.227 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:50:05.228 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1175 ms
+2020-09-17 23:50:05.727 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:50:05.966 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:50:06.003 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:50:06.048 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:50:06.061 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 2.492 seconds (JVM running for 3.576)
+2020-09-17 23:50:16.220 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 23:50:16.221 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-09-17 23:50:16.226 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-09-17 23:50:16.364 [http-nio-8080-exec-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-09-17 23:50:16.692 [http-nio-8080-exec-1] INFO  org.chatroom.crdemo.controller.UserController - sunliang用户注册成功
+2020-09-17 23:50:24.205 [http-nio-8080-exec-2] INFO  org.chatroom.crdemo.controller.UserController - 812594603@163.com邮箱已被注册
+2020-09-17 23:55:42.614 [Thread-11] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:55:42.618 [Thread-11] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2020-09-17 23:55:42.798 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 7428 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:55:42.798 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:55:43.156 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:55:43.157 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:55:43.157 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:55:43.157 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:55:43.194 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:55:43.195 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 393 ms
+2020-09-17 23:55:43.278 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:55:43.338 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:55:43.346 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:55:43.349 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:55:43.352 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 0.624 seconds (JVM running for 340.867)
+2020-09-17 23:55:43.354 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-09-17 23:58:01.323 [Thread-18] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:58:01.532 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 7428 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:58:01.532 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:58:01.861 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:58:01.861 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:58:01.861 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:58:01.861 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:58:01.888 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:58:01.889 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 353 ms
+2020-09-17 23:58:01.978 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:58:02.043 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:58:02.052 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:58:02.056 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:58:02.059 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 0.599 seconds (JVM running for 479.574)
+2020-09-17 23:58:02.060 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-09-17 23:58:21.804 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 23:58:21.805 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-09-17 23:58:21.815 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2020-09-17 23:58:21.846 [http-nio-8080-exec-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} inited
+2020-09-17 23:58:21.856 [http-nio-8080-exec-1] INFO  org.chatroom.crdemo.controller.UserController - sunliang用户登陆成功
+2020-09-17 23:58:30.609 [http-nio-8080-exec-2] INFO  org.chatroom.crdemo.controller.UserController - 密码错误
+2020-09-17 23:58:58.125 [Thread-23] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:58:58.127 [Thread-23] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
+2020-09-17 23:58:58.342 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 7428 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:58:58.342 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:58:58.638 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:58:58.639 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:58:58.639 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:58:58.639 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:58:58.663 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:58:58.664 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 319 ms
+2020-09-17 23:58:58.735 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:58:58.791 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:58:58.797 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:58:58.801 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:58:58.803 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 0.53 seconds (JVM running for 536.318)
+2020-09-17 23:58:58.804 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-09-17 23:59:27.174 [Thread-28] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:59:27.336 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Starting CrdemoApplication on DESKTOP-UQQALD5 with PID 7428 (C:\Users\V\IdeaProjects\crdemo\target\classes started by V in C:\Users\V\IdeaProjects\crdemo)
+2020-09-17 23:59:27.337 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - No active profile set, falling back to default profiles: default
+2020-09-17 23:59:27.642 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-09-17 23:59:27.643 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:59:27.643 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-17 23:59:27.643 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 23:59:27.668 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-17 23:59:27.668 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 329 ms
+2020-09-17 23:59:27.741 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 23:59:27.794 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-09-17 23:59:27.802 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 23:59:27.807 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-17 23:59:27.813 [restartedMain] INFO  org.chatroom.crdemo.CrdemoApplication - Started CrdemoApplication in 0.539 seconds (JVM running for 565.328)
+2020-09-17 23:59:27.815 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
