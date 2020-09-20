@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="org.chatroom.crdemo.dao.UserMapper">
-  <resultMap id="BaseResultMap" type="org.chatroom.crdemo.entity.User">
+<mapper namespace="com.example.chatroom.dao.UserMapper">
+  <resultMap id="BaseResultMap" type="com.example.chatroom.entity.User">
     <constructor>
       <idArg column="id" javaType="java.lang.Long" jdbcType="BIGINT" />
       <arg column="email" javaType="java.lang.String" jdbcType="VARCHAR" />
@@ -76,7 +76,7 @@
     from users
     where username = #{username,jdbcType=VARCHAR}
   </select>
-  <select id="selectByExample" parameterType="org.chatroom.crdemo.entity.UserExample" resultMap="BaseResultMap">
+  <select id="selectByExample" parameterType="com.example.chatroom.entity.UserExample" resultMap="BaseResultMap">
     select
     <if test="distinct">
       distinct
@@ -100,19 +100,19 @@
     delete from users
     where id = #{id,jdbcType=BIGINT}
   </delete>
-  <delete id="deleteByExample" parameterType="org.chatroom.crdemo.entity.UserExample">
+  <delete id="deleteByExample" parameterType="com.example.chatroom.entity.UserExample">
     delete from users
     <if test="_parameter != null">
       <include refid="Example_Where_Clause" />
     </if>
   </delete>
-  <insert id="insert" parameterType="org.chatroom.crdemo.entity.User" >
+  <insert id="insert" parameterType="com.example.chatroom.entity.User" >
     insert into users (id, email, password, 
       username)
     values (#{id,jdbcType=BIGINT}, #{email,jdbcType=VARCHAR}, #{password,jdbcType=VARCHAR}, 
       #{username,jdbcType=VARCHAR})
   </insert>
-  <insert id="insertSelective" parameterType="org.chatroom.crdemo.entity.User">
+  <insert id="insertSelective" parameterType="com.example.chatroom.entity.User">
     insert into users
     <trim prefix="(" suffix=")" suffixOverrides=",">
       <if test="id != null">
@@ -143,7 +143,7 @@
       </if>
     </trim>
   </insert>
-  <select id="countByExample" parameterType="org.chatroom.crdemo.entity.UserExample" resultType="java.lang.Long">
+  <select id="countByExample" parameterType="com.example.chatroom.entity.UserExample" resultType="java.lang.Long">
     select count(*) from users
     <if test="_parameter != null">
       <include refid="Example_Where_Clause" />
@@ -179,7 +179,7 @@
       <include refid="Update_By_Example_Where_Clause" />
     </if>
   </update>
-  <update id="updateByPrimaryKeySelective" parameterType="org.chatroom.crdemo.entity.User">
+  <update id="updateByPrimaryKeySelective" parameterType="com.example.chatroom.entity.User">
     update users
     <set>
       <if test="email != null">
@@ -194,7 +194,7 @@
     </set>
     where id = #{id,jdbcType=BIGINT}
   </update>
-  <update id="updateByPrimaryKey" parameterType="org.chatroom.crdemo.entity.User">
+  <update id="updateByPrimaryKey" parameterType="com.example.chatroom.entity.User">
     update users
     set email = #{email,jdbcType=VARCHAR},
       password = #{password,jdbcType=VARCHAR},

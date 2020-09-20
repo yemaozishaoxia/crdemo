@@ -8,8 +8,8 @@
         <version>2.3.3.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.chatroom</groupId>
-    <artifactId>crdemo</artifactId>
+    <groupId>com.example</groupId>
+    <artifactId>chatroom</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>crdemo</name>
     <description>Demo project for Spring Boot</description>
