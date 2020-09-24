@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.chatroom.dao.FriendShipMapper">
+    <resultMap id="BaseResultMap" type="com.example.chatroom.entity.FriendShip">
+        <constructor>
+            <idArg column="id" javaType="java.lang.Long" jdbcType="BIGINT"/>
+            <arg column="userid" javaType="java.lang.Long" jdbcType="BIGINT"/>
+            <arg column="friendid" javaType="java.lang.Long" jdbcType="BIGINT"/>
+            <arg column="friendname" javaType="java.lang.String" jdbcType="VARCHAR"/>
+        </constructor>
+    </resultMap>
+    <sql id="Base_Column_List">
+    id, userid, friendid, friendname
+  </sql>
+    <select id="findFriendsByUserId" parameterType="java.lang.Long" resultType="com.example.chatroom.entity.FriendShip">
+        select
+        <include refid="Base_Column_List"/>
+        from friendship where userid= #{userid,jdbcType=BIGINT}
+    </select>
+    <delete id="deleteFriendShip" parameterType="com.example.chatroom.entity.FriendShip">
+        delete   from friendship where userid= #{userid,jdbcType=VARCHAR} and friendid =#{friendid,jdbcType=BIGINT}
+    </delete>
+    <delete id="blacklistFriendByFriendId" parameterType="com.example.chatroom.entity.FriendShip">
+        delete   from friendship where ( userid= #{userid,jdbcType=VARCHAR} and friendid =#{friendid,jdbcType=BIGINT} )
+        or ( userid= #{friendid,jdbcType=VARCHAR} and friendid =#{userid,jdbcType=BIGINT} )
+    </delete>
+    <insert id="addFriendShip" parameterType="com.example.chatroom.entity.FriendShip">
+    insert into friendship (id, userid, friendid, friendname)
+    values (#{id,jdbcType=BIGINT}, #{userid,jdbcType=BIGINT}, #{friendid,jdbcType=BIGINT}, #{friendname,jdbcType=VARCHAR})
+  </insert>
+</mapper>

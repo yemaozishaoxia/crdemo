@@ -16,7 +16,7 @@ public class ApiErrorException extends RuntimeException {
   public ApiErrorException(ApiMsgEnum apiMsgEnum) {
     this.code = apiMsgEnum.getCode();
     this.message = apiMsgEnum.getMsg();
-    logger.info("exception=" + apiMsgEnum.getCode()+"message="+apiMsgEnum.getCode());
+    logger.info("exception=" + apiMsgEnum.getCode() + "message=" + apiMsgEnum.getCode());
   }
 
   public String getCode() {

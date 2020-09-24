@@ -26,6 +26,7 @@ public class MyInterceptorConfig extends WebMvcConfigurationSupport {
     return new AuthenticationInterceptor();
   }
 
+
   @Bean
   public MappingJackson2HttpMessageConverter customJackson2HttpMessageConverter() {
     MappingJackson2HttpMessageConverter jsonConverter = new MappingJackson2HttpMessageConverter();

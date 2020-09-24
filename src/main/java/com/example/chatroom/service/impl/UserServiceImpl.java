@@ -1,9 +1,11 @@
 package com.example.chatroom.service.impl;
 
+import com.example.chatroom.enums.ApiMsgEnum;
+import com.example.chatroom.exception.Api403Exception;
+import com.example.chatroom.exception.ApiErrorException;
 import com.example.chatroom.service.UserService;
 import com.example.chatroom.dao.UserMapper;
 import com.example.chatroom.entity.User;
-import com.example.chatroom.entity.UserExample;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -12,41 +14,38 @@ import java.util.List;
 
 @Service
 public class UserServiceImpl implements UserService {
-  @Autowired
-  private UserMapper userMapper;
+  @Autowired private UserMapper userMapper;
 
   @Override
-  @Transactional
-  public void addUser(User user) {
-    this.userMapper.insert(user);
+  @Transactional(rollbackFor = Exception.class)
+  public int addUser(User user) {
+    int rows=0;
+    try {
+      rows=this.userMapper.insert(user);
+    } catch (Exception e) {
+      throw new Api403Exception(ApiMsgEnum.DATABASE_EXCEPTION);
+    }
+    return rows;
   }
 
   @Override
   @Transactional
   public User findUserByUsername(String username) {
-    User user=this.userMapper.selectByUsername(username);
+    User user = this.userMapper.selectByUsername(username);
     return user;
   }
 
   @Override
-  @Transactional
-  public User findUserByEmail(User user) {
-    UserExample example=new UserExample();
-    List<User> users=null;
-    UserExample.Criteria criteria = example.createCriteria();
-    criteria.andEmailEqualTo(user.getEmail());
-    users=this.userMapper.selectByExample(example);
-    return users.get(0);
+  @Transactional(rollbackFor = Exception.class)
+  public User findUserByEmail(String email) {
+    User user = this.userMapper.findUserByEmail(email);
+    return user;
   }
 
   @Override
+  @Transactional(rollbackFor = Exception.class)
   public User findUserByUser(User user) {
-    UserExample example=new UserExample();
-    List<User> users=null;
-    UserExample.Criteria criteria = example.createCriteria();
-    criteria.andUsernameEqualTo(user.getUsername());
-    criteria.andPasswordEqualTo(user.getPassword());
-    users=this.userMapper.selectByExample(example);
-    return users.get(0);
+    User user1 = this.userMapper.findUserByUser(user);
+    return user1;
   }
 }

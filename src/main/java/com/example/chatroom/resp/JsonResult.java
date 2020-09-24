@@ -1,4 +1,4 @@
-package com.example.chatroom.pojo;
+package com.example.chatroom.resp;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import org.slf4j.Logger;
@@ -19,6 +19,8 @@ public class JsonResult<T> {
   private T data;
   /** 是错误时候的错误消息 */
   private String msg;
+
+
 
   public JsonResult(String code, T data, String msg) {
     this.code = code;

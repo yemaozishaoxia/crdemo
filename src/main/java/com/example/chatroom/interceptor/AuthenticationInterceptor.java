@@ -21,8 +21,7 @@ import java.lang.reflect.Method;
 public class AuthenticationInterceptor implements HandlerInterceptor {
   private static final Logger logger = LoggerFactory.getLogger(AuthenticationInterceptor.class);
 
-  @Autowired
-  private UserService userService;
+  @Autowired private UserService userService;
 
   @Override
   public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler)
@@ -47,29 +46,29 @@ public class AuthenticationInterceptor implements HandlerInterceptor {
     // 执行认证
     if (token == null) {
       logger.info("Authorization为空，未登录");
-      throw new Api401Exception(ApiMsgEnum.AuthenticationNull_EXCEPTION);
+      throw new Api401Exception(ApiMsgEnum.AUTHENTICATIONNULL_EXCEPTION);
     }
-// 获取 token 中的 username
+    // 获取 token 中的 username
     String username;
     try {
-      username = JWT.decode(token).getClaim("username").asString();
+      username = JwtUtil.getParam("username",token);
     } catch (Exception e) {
-      logger.info("Authentication超时");
-      throw new Api401Exception(ApiMsgEnum.AuthenticationOverTime_EXCEPTION);
+      logger.info("Authentication超时或不包含Param");
+      throw new Api401Exception(ApiMsgEnum.AUTHENTICATIONOVERTIME_EXCEPTION);
     }
     System.out.println(username);
-    User return_user = userService.findUserByUsername(username);
+    User returnUser = userService.findUserByUsername(username);
 
-    if (return_user==null){
-      logger.info(username+"用户不存在");
-      throw new Api401Exception(ApiMsgEnum.UserNotExist_EXCEPTION);
+    if (returnUser == null) {
+      logger.info(username + "用户不存在");
+      throw new Api401Exception(ApiMsgEnum.USERNOTEXIST_EXCEPTION);
     }
-    Boolean verify = JwtUtil.isVerify(token, return_user);
+    Boolean verify = JwtUtil.isVerify(token, returnUser);
     if (!verify) {
       logger.info("Authentication不正确");
-      throw new Api401Exception(ApiMsgEnum.AuthenticationNotCorrect_EXCEPTION);
-    }else {
-      logger.info("Authentication正确。"+"用户是"+username);
+      throw new Api401Exception(ApiMsgEnum.AUTHENTICATIONNOTCORRECT_EXCEPTION);
+    } else {
+      logger.info("Authentication正确。" + "用户是" + username);
     }
     return true;
   }

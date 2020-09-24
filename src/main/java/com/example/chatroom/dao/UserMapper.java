@@ -5,33 +5,19 @@ import java.util.List;
 import com.example.chatroom.entity.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
-import com.example.chatroom.entity.UserExample;
 import org.springframework.stereotype.Repository;
 
 @Repository
 @Mapper
 public interface UserMapper {
-  long countByExample(UserExample example);
 
-  int deleteByExample(UserExample example);
-
-  int deleteByPrimaryKey(Long id);
-
-  int insert(User record);
-
-  int insertSelective(User record);
-
-  List<User> selectByExample(UserExample example);
-
-  User selectByPrimaryKey(Long id);
+  int insert(User user);
 
   User selectByUsername(String username);
 
-  int updateByExampleSelective(@Param("record") User record, @Param("example") UserExample example);
+  User findUserByEmail(String email);
 
-  int updateByExample(@Param("record") User record, @Param("example") UserExample example);
+  User findUserByUser(User user);
 
-  int updateByPrimaryKeySelective(User record);
-
-  int updateByPrimaryKey(User record);
+  int deleteUserById(Long userid);
 }

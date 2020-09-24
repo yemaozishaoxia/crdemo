@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ChatroomApplicationTests {
+public class ChatroomApplicationTests {
   @Autowired
   UserService userService;
 
@@ -28,7 +28,7 @@ class ChatroomApplicationTests {
     User user = new User();
     user.setUsername("sunliang");
     user.setPassword("sunliang");
-    String s = JwtUtil.createJWT(100000000, user);
+    String s = JwtUtil.createJWT(user);
     System.out.println(s);
   }
 
@@ -40,9 +40,15 @@ class ChatroomApplicationTests {
     System.out.println(user.getPassword());
     System.out.println(user.getEmail());
   }
+
   @Test
   void test04() {
+          String Str = new String("    www.runoob.com    ");
+            System.out.print("原始值 :" );
+            System.out.println( Str );
 
-
+            System.out.print("删除头尾空白 :" );
+            System.out.println( Str.trim() );
+    System.out.println( Str );
   }
 }
